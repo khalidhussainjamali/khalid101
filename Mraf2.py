@@ -103,8 +103,8 @@ jalan("   \033[1;93m Welcome to Af2  Creations ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mTheAfgVirus\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "af2"
-CorrectPassword = "af2"
+CorrectUsername = Khalid
+CorrectPassword = Jamali
 
 
 loop = 'true'
