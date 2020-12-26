@@ -8,4 +8,4 @@
   pip2 install requests mechanize
   git clone this location
   cd khalid101
-  python2 khalid101.py
+  python2 Mraf2.py
