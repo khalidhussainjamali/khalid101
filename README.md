@@ -7,5 +7,5 @@
   pkg install git
   pip2 install requests mechanize
   git clone this location
-  cd Fast
+  cd khalid101
   python2 khalid101.py
