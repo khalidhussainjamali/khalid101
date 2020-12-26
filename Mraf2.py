@@ -99,12 +99,12 @@ jalan("\033[1;96m•◈• ❢◥ ▬▬▬▬▬▬▬ ◆ ▬▬▬▬▬▬�
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Af2  Creations ")
+jalan("   \033[1;93m Welcome to KHALID  Creations ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mTheAfgVirus\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = Khalid
-CorrectPassword = Jamali
+CorrectUsername = afa2
+CorrectPassword = afa2
 
 
 loop = 'true'
@@ -217,7 +217,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hack3ing"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update KHALID"																														
+	print "\033[1;32;40m[2] \033[1;33;40m══Update khalid101"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
